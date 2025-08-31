@@ -18,10 +18,10 @@
 
 ### 🔭 Şu An Üzerinde Çalıştıklarım
 
-- 🌱 Şu sıralar **React Native** ile mobil uygulama geliştirme temellerimi güçlendiriyorum.
-- 👯 Işık Üniversitesi'ndeki **[Proje Adı veya Dersi Buraya Yaz]** projesi üzerinde çalışıyorum.
-- 💬 Yazılım ve teknoloji hakkında daha fazla bilgi edinmek için topluluklarla etkileşim halindeyim.
-- 📫 Bana nasıl ulaşacağını merak ediyorsan: **[email-adresini-yaz@gmail.com]**
+- 🚀 Genellikle **semantik HTML** ve **responsive CSS** kullanarak modern web sayfaları tasarlayıp pratik yapıyorum.
+- 🌱 **React** ile component tabanlı frontend geliştirme mantığını öğreniyorum.
+- 💬 Temiz kod ve en iyi yazılım geliştirme pratikleri hakkında kendimi geliştirmeye çalışıyorum.
+- 📫 Bana nasıl ulaşacağını merak ediyorsan: **uzunsoyomer55@gmail.com**
 
 ---
 
@@ -59,9 +59,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmerUzunsoy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerUzunsoy&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-contribution-graph.vercel.app/api?username=OmerUzunsoy&theme=tokyonight" alt="Ömer'in Katkı Grafiği"/>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?dummy_path=OmerUzunsoy" alt="snake" />
 </p>
 
 ---
@@ -69,10 +68,13 @@
 ### 📫 Sosyal Medya ve İletişim
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[linkedin-kullanıcı-adın]" target="blank">
+  <a href="mailto:uzunsoyomer55@gmail.com" target="_blank">
+    <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Mail" height="40" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/%C3%B6mer-uzunsoy/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" />
   </a>
-  <a href="https://twitter.com/[twitter-kullanıcı-adın]" target="blank">
+  <a href="https://x.com/OmerUzunsoy55" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="50" />
   </a>
 </p>
