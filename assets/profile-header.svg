@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ömer Uzunsoy — Backend Developer</title>
+  <desc id="desc">A dark gradient profile banner with abstract blue and purple shapes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="0.48" stop-color="#111A34"/>
+      <stop offset="1" stop-color="#0B1024"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#61DAFB"/>
+      <stop offset="0.5" stop-color="#7C5CFC"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop offset="0" stop-color="#2F81F7" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#2F81F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop offset="0" stop-color="#A371F7" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#A371F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1030" cy="75" r="250" fill="url(#glowA)"/>
+  <circle cx="930" cy="340" r="260" fill="url(#glowB)"/>
+  <circle cx="1060" cy="96" r="70" fill="#2F81F7" opacity=".12" filter="url(#shadow)"/>
+  <circle cx="1000" cy="275" r="92" fill="#A371F7" opacity=".11" filter="url(#shadow)"/>
+
+  <g transform="translate(80 68)">
+    <rect width="176" height="34" rx="17" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <circle cx="20" cy="17" r="5" fill="#3FB950"/>
+    <text x="34" y="22" fill="#B8C7E6" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1">OPEN TO BUILD</text>
+
+    <text x="0" y="105" fill="#F7FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="750">Ömer Uzunsoy</text>
+    <rect x="0" y="126" width="450" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="0" y="172" fill="#C8D4EE" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Backend Developer  ·  C# / .NET</text>
+    <text x="0" y="216" fill="#8494B5" font-family="Segoe UI, Arial, sans-serif" font-size="17">Secure APIs  ·  Clean architecture  ·  Real products</text>
+  </g>
+
+  <g transform="translate(910 115)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="168" height="130" rx="22" fill="#FFFFFF" fill-opacity=".045" stroke="#FFFFFF" stroke-opacity=".14"/>
+    <path d="M55 46 26 65l29 19M113 46l29 19-29 19M96 32 72 98" stroke="url(#accent)" stroke-width="7"/>
+  </g>
+
+  <rect x=".5" y=".5" width="1199" height="359" rx="27.5" fill="none" stroke="#FFFFFF" stroke-opacity=".1"/>
+</svg>
