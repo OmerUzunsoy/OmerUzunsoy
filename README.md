@@ -1,126 +1,62 @@
 <div align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Ömer Uzunsoy profile header" />
 
-<img src="./assets/profile-header.svg" width="100%" alt="Ömer Uzunsoy — Backend Developer" />
+  <h1>Hi, I'm Ömer Uzunsoy 👋</h1>
+  <p>
+    Computer Programming student based in <strong>Istanbul, Türkiye</strong>.<br/>
+    I build backend-focused software with <strong>C#/.NET</strong> and <strong>ASP.NET Core</strong>,
+    with strong attention to architecture, security, and maintainability.
+  </p>
 
-<br />
-
-<a href="https://omeruzunsoy.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=61DAFB" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/%C3%B6mer-uzunsoy/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=61DAFB" alt="LinkedIn" /></a>
-<a href="mailto:uzunsoyomer@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=61DAFB" alt="Email" /></a>
-<a href="https://github.com/OmerUzunsoy?tab=repositories"><img src="https://img.shields.io/badge/All_Projects-111827?style=flat-square&logo=github&logoColor=61DAFB" alt="All projects" /></a>
-
+  <p>
+    <a href="https://omeruzunsoy.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Ömer Uzunsoy's portfolio" /></a>
+    <a href="https://www.linkedin.com/in/%C3%B6mer-uzunsoy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Ömer Uzunsoy on LinkedIn" /></a>
+    <a href="mailto:uzunsoyomer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email to Ömer Uzunsoy" /></a>
+    <a href="https://github.com/OmerUzunsoy?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse all GitHub repositories" /></a>
+  </p>
 </div>
 
-## Hello, I'm Ömer
+## What I Build
 
-I'm a Computer Programming student in Istanbul, building backend systems with **C# and .NET**. I care about the parts that turn a demo into a real product: clear architecture, secure authentication, reliable data flows, validation, testing, logging, and useful documentation.
+I focus on practical backend systems: authenticated APIs, clean architecture, reliable data access, and production-ready engineering practices.
 
-```csharp
-var currentFocus = new[]
-{
-    "Production-minded ASP.NET Core APIs",
-    "Authentication, authorization and caching",
-    "Clean architecture and maintainable code"
-};
-```
+Alongside .NET backend work, I also build with Kotlin/Android, Python, and WinForms-based desktop applications.
 
-## Selected Work
+## Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Backend:** C#, .NET, ASP.NET Core, REST APIs  
+**Data:** EF Core, SQL Server, PostgreSQL, SQLite, Redis  
+**Quality & Security:** Testing, logging, authentication, authorization, validation  
+**Architecture & Delivery:** Clean Architecture, Docker, Git/GitHub, Postman, Linux  
+**Also Used:** Kotlin, Android, Python, WinForms
 
-### [E-Commerce Backend API](https://github.com/OmerUzunsoy/E-Commerce-Backend-API)
+## Featured Projects
 
-A production-style .NET 9 API with layered architecture, JWT + refresh tokens, role-based access, Redis caching, validation, logging, tests, and Docker.
+### [E-Commerce-Backend-API](https://github.com/OmerUzunsoy/E-Commerce-Backend-API)
+Production-style ASP.NET Core API with layered architecture, JWT + refresh token auth, role-based authorization, Redis caching, validation, logging, tests, and Docker support.
 
-**Built with**  
-`ASP.NET Core` `EF Core` `SQL Server` `Redis` `Docker`
-
-[Explore repository →](https://github.com/OmerUzunsoy/E-Commerce-Backend-API)
-
-</td>
-<td width="50%" valign="top">
-
-### [Job Application Tracker](https://github.com/OmerUzunsoy/Job-Application-Tracker-API)
-
-An authenticated backend for managing applications, interviews, notes, and hiring stages with search, filtering, sorting, and dashboard insights.
-
-**Built with**  
-`ASP.NET Core` `EF Core` `SQL Server` `JWT`
-
-[Explore repository →](https://github.com/OmerUzunsoy/Job-Application-Tracker-API)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### [Job-Application-Tracker-API](https://github.com/OmerUzunsoy/Job-Application-Tracker-API)
+Backend API for managing job applications, interviews, notes, and hiring stages with secure authentication, filtering, and dashboard-oriented data flows.
 
 ### [UzunsIPTV](https://github.com/OmerUzunsoy/UzunsIPTV)
+Kotlin-based Android TV/mobile IPTV player with Xtream Codes and M3U support, plus live TV, VOD, series, favorites, and watch progress tracking.
 
-An Android TV and mobile IPTV player supporting Xtream Codes, M3U playlists, live TV, VOD, series, favorites, and watch progress.
+### [Kutuphane_Otomasyonu](https://github.com/OmerUzunsoy/Kutuphane_Otomasyonu)
+Role-based WinForms library automation project for members and staff, including inventory, loan/return workflows, penalties, and daily operations.
 
-**Built with**  
-`Kotlin` `ExoPlayer` `Retrofit` `Room` `MVVM`
+## Current Focus
 
-[Explore repository →](https://github.com/OmerUzunsoy/UzunsIPTV)
-
-</td>
-<td width="50%" valign="top">
-
-### [Library Automation](https://github.com/OmerUzunsoy/Kutuphane_Otomasyonu)
-
-A role-based desktop system for members, staff, inventory, loans, returns, penalties, announcements, and daily library workflows.
-
-**Built with**  
-`C#` `.NET Framework` `WinForms` `SQL Server` `ADO.NET`
-
-[Explore repository →](https://github.com/OmerUzunsoy/Kutuphane_Otomasyonu)
-
-</td>
-</tr>
-</table>
-
-## Toolbox
-
-<table>
-<tr>
-<td><strong>Core</strong></td>
-<td>C# · .NET · ASP.NET Core · REST APIs</td>
-</tr>
-<tr>
-<td><strong>Data</strong></td>
-<td>Entity Framework Core · SQL Server · PostgreSQL · SQLite · Redis</td>
-</tr>
-<tr>
-<td><strong>Quality</strong></td>
-<td>xUnit · FluentValidation · Swagger / OpenAPI · Serilog</td>
-</tr>
-<tr>
-<td><strong>Delivery</strong></td>
-<td>Git · GitHub · Docker · Postman · Linux</td>
-</tr>
-<tr>
-<td><strong>Also building with</strong></td>
-<td>Python · Kotlin · Android · Windows Forms</td>
-</tr>
-</table>
-
-## How I Work
-
-- I start with the problem and model the data before writing endpoints.
-- I keep controllers thin and separate business logic from infrastructure.
-- I treat authentication, validation, errors, and logs as product features.
-- I document projects so another developer can run and understand them.
+- Building robust ASP.NET Core APIs with clean architecture principles
+- Improving system reliability with testing and structured logging
+- Deepening practical expertise in secure authentication and authorization
 
 ---
 
 <div align="center">
-
-### Let's build something useful.
-
-[Portfolio](https://omeruzunsoy.github.io/) · [LinkedIn](https://www.linkedin.com/in/%C3%B6mer-uzunsoy/) · [Email](mailto:uzunsoyomer@gmail.com)
-
-<sub>Based in Istanbul, Türkiye · Learning in public, improving with every project.</sub>
-
+  <strong>Thanks for visiting my profile.</strong><br/>
+  I'm always open to connecting, collaborating, and learning from other developers.
+  <br/><br/>
+  <a href="https://omeruzunsoy.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/%C3%B6mer-uzunsoy/">LinkedIn</a> ·
+  <a href="mailto:uzunsoyomer@gmail.com">Email</a>
 </div>
